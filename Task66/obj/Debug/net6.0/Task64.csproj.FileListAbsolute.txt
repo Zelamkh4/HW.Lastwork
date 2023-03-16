@@ -1,0 +1,15 @@
+/Users/zelamkh/C#HomeWork8/Task66/obj/Debug/net6.0/Task64.csproj.AssemblyReference.cache
+/Users/zelamkh/C#HomeWork8/Task66/obj/Debug/net6.0/Task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#HomeWork8/Task66/obj/Debug/net6.0/Task64.AssemblyInfoInputs.cache
+/Users/zelamkh/C#HomeWork8/Task66/obj/Debug/net6.0/Task64.AssemblyInfo.cs
+/Users/zelamkh/C#HomeWork8/Task66/obj/Debug/net6.0/Task64.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#HomeWork8/Task66/bin/Debug/net6.0/Task64
+/Users/zelamkh/C#HomeWork8/Task66/bin/Debug/net6.0/Task64.deps.json
+/Users/zelamkh/C#HomeWork8/Task66/bin/Debug/net6.0/Task64.runtimeconfig.json
+/Users/zelamkh/C#HomeWork8/Task66/bin/Debug/net6.0/Task64.dll
+/Users/zelamkh/C#HomeWork8/Task66/bin/Debug/net6.0/Task64.pdb
+/Users/zelamkh/C#HomeWork8/Task66/obj/Debug/net6.0/Task64.dll
+/Users/zelamkh/C#HomeWork8/Task66/obj/Debug/net6.0/refint/Task64.dll
+/Users/zelamkh/C#HomeWork8/Task66/obj/Debug/net6.0/Task64.pdb
+/Users/zelamkh/C#HomeWork8/Task66/obj/Debug/net6.0/Task64.genruntimeconfig.cache
+/Users/zelamkh/C#HomeWork8/Task66/obj/Debug/net6.0/ref/Task64.dll
